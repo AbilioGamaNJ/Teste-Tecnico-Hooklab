@@ -53,8 +53,6 @@ if __name__ == '__main__':
 
 #Eu já sabia qual api eu queria, porém eu não soube utilizar ela, então busquei por um código que pudesse puxar ela. Porém não deu certo, o código puxou todas as apis "proxytown"
 
-#A minha idéia inicial foi fazer isso https://youtu.be/-oPuGc05Lxs?si=FgpZu7jt5RoNVuQ4. Porém o formato da api não era um https amigável como no vídeo. Era este schema, e infelizmente eu não soube trabalhar com ele:
-
 #Obrigado pela oportunidade de realizar o teste técnico, aprendi bastante!
 
 # {
